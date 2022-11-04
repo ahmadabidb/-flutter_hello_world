@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 <h4>NIM  : 2041720179</h4> 
 <h4>Kelas: TI-3B</h4> 
 
-![Screenshot](img/1.jpeg)
+![Screenshot](img/2.jpeg)
